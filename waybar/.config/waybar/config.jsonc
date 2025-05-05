@@ -36,5 +36,11 @@
           "default": ["", "", " "]
       },
       "on-click": "pavucontrol"
+  },
+  "bluetooth": {
+      "format": " 󰂯 ",
+    "tooltip": true,
+	  "tooltip-format": "Bluetooth-Einstellungen",
+    "on-click": "bluetuith"
   }
 }
